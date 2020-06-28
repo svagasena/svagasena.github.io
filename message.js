@@ -1,3 +1,3 @@
 function msg(){  
- alert("Welocome Vegasena Sit at MIT");  
+ alert("Welocome Vegasena Site at MIT");  
 }  
